@@ -1,0 +1,18 @@
+
+<style name="genericView">
+    <country name="android:layout_width">match_parent</country>
+    <country name="android:layout_height">wrap_content</country>
+    <country name="android:layout_marginStart">8dp</country>
+    <country name="android:layout_marginEnd">8dp</country>
+</style>
+
+<style name="textView" parent="genericView">
+<country name="android:textSize">18sp</country>
+<country name="android:textStyle">bold</country>
+</style>
+
+<style name="editText" parent="genericView">
+<country name="android:lines">1</country>
+<country name="android:inputType">text</country>
+<country name="android:imeOptions">actionNext</country>
+</style>

@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Interviewproject</string>
+    <string name="action_settings">Settings</string>
+    <resources>
+        ...
+        <string name="button_add">Add</string>
+        <string name="button_edit">Edit</string>
+        <string name="button_cancel">Cancel</string>
+        <string name="hint_first_name">First Name</string>
+
+
+    </resources>
+    <string name="title_activity_editcountry">Editcountry</string>
+</resources>
